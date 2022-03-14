@@ -2,7 +2,7 @@ package comparatorVsComparable.comparator;
 
 import java.util.*;
 
-// Comment
+// Comment 1
 class AgeComparator implements Comparator<Student> {
 	
 	public int compare(Student s1, Student s2) {
